@@ -1,0 +1,23 @@
+.image{
+   border: 2px solid black;
+    width: 150px;
+}
+body{
+    
+}
+
+.card{
+   border:5px solid black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 150px auto;
+    text-align:center;
+    background-color:lightblue;
+    border-bottom: 9px solid rgb(39, 39, 39);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-shadow: 1px 1px 4px black;
+  
+}
